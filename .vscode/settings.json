@@ -6,6 +6,7 @@
         "numpy",
         "scikit",
         "scipy",
+        "sklearn",
         "venv"
     ]
 }

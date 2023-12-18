@@ -21,3 +21,15 @@ to get the size of the numpy list
 - if K = 1 then the nearest is blue, so K is blue
 - if K = 3 then we have 3 nearest 2 green and 1 blue, so K is green
 
+
+
+## Train the computer
+
+### We can train the computer with the fit method from sklearn.neighbors import KNeighborsClassifier
+
+```python
+from sklearn.neighbors import KNeighborsClassifier
+knn = KNeighborsClassifier(n_neighbors=1)
+knn.fit(x,y) # train!
+
+```
