@@ -36,3 +36,5 @@ A dataset we will gonna use
 - Train the computer to recognize the species of an Iris flower based on measurements
 - Apply statistical models
 - Create an app in which we will provide the measurements and it will return the species of the plant
+
+
