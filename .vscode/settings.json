@@ -7,6 +7,8 @@
         "scikit",
         "scipy",
         "sklearn",
-        "venv"
+        "venv",
+        "xlabel",
+        "ylabel"
     ]
 }
