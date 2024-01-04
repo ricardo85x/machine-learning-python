@@ -5,6 +5,7 @@
         "logreg",
         "ndarray",
         "numpy",
+        "pairplot",
         "scikit",
         "scipy",
         "sklearn",
