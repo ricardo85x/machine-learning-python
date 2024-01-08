@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
+        "astype",
         "ipython",
         "jupyter",
         "logreg",
+        "mpimg",
         "ndarray",
         "numpy",
         "pairplot",
